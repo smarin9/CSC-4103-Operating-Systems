@@ -1,7 +1,7 @@
 # CSC-4103-Operating-Systems
 
-Program 1:
-Sudoku Solution Validator
+Program 1:\n
+Sudoku Solution Validator\n
 This project consists of designing a multithreaded application that determines
 whether the solution to a Sudoku puzzle is valid. This program uses creates a
 total of 27 threads (9 for each of the rows, 9 for each of the columns, and
